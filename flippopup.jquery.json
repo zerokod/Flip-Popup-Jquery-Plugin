@@ -1,0 +1,34 @@
+{
+  "name": "flippopup",
+  "title": "flippopup",
+  "description": "Flip Popup is a lightweight jQuery modal popup plugin It provides you with all the logic like centering, modal overlay, events and more. It gives you a lot of opportunities to customize so it will fit your needs.",
+	"keywords": [
+		"popup",
+		"popin",
+		"modal",
+		"window",
+		"options",
+		"ui",
+		"fade",
+		"transition",
+		"animation",
+		"animate",
+		"jquery"
+	],
+	"version": "0.1.1",
+	"author": {
+		"name": "Zerokod Interactive Media Productions",
+		"url": "http://zerokod.com/"
+	},
+	"licenses": [
+		{
+			"type": "DWIWYWBPVMS",
+			"url": "http://zerokod.com/flippopup"
+		}
+	],
+	"homepage": "http://zerokod.com/flippopup",
+	"demo": "http://zerokod.com/flippopup",
+	"dependencies": {
+		"jquery": ">=1.4.3"
+	}
+}
