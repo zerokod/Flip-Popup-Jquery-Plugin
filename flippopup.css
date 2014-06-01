@@ -299,6 +299,44 @@ h1.demotitle{
      text-transform: uppercase;
     font-size: 50px;
 }
+
+.linkpulsgreen {
+    background: none repeat scroll 0% 0% #4ebe4e;
+    padding: 5px 30px;
+    border-radius: 15px;
+    text-decoration: none !important;
+     width:150px;
+     z-index:1;
+     color:#fff;
+     text-align: center;
+     font-family: arial;
+     text-transform: uppercase;
+}
+.linkpulsblue {
+    background: none repeat scroll 0% 0% #0edce3;
+    padding: 5px 30px;
+    border-radius: 15px;
+    text-decoration: none !important;
+     width:150px;
+     z-index:1;
+     color:#fff;
+     text-align: center;
+     font-family: arial;
+     text-transform: uppercase;
+}
+
+.linkpulsorange{
+    background: none repeat scroll 0% 0% #f79747;
+    padding: 5px 30px;
+    border-radius: 15px;
+    text-decoration: none !important;
+     width:150px;
+     z-index:1;
+     color:#fff;
+     text-align: center;
+     font-family: arial;
+     text-transform: uppercase;
+}
 /*
 .topcontainer {
   
