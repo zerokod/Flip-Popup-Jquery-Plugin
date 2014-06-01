@@ -30,6 +30,9 @@
 	height: 50%;
 	z-index:99999999;
 	overflow: hidden;
+     position: absolute;
+    top: 0px;
+    left: 0px;
     
 }
 .closeX{
@@ -279,4 +282,27 @@
     width:600px;
     height:500px;  
 }
- 
+ .linkpuls {
+    background: none repeat scroll 0% 0% #ff5599;
+    padding: 5px 30px;
+    border-radius: 15px;
+    text-decoration: none !important;
+     width:150px;
+     z-index:1;
+     color:#fff;
+     text-align: center;
+     font-family: arial;
+     text-transform: uppercase;
+}
+h1.demotitle{
+     font-family: arial;
+     text-transform: uppercase;
+    font-size: 50px;
+}
+/*
+.topcontainer {
+  
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}*/

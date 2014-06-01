@@ -9,7 +9,11 @@
     
   <script>
     $( document ).ready(function(){
-    $( "#pop1" ).flipOrizzontal({
+   $( "#pop1" ).hide();
+        
+        
+        $( ".linkpuls" ).click(function() {
+ $( "#pop1" ).flipOrizzontal({
     	color: "#fff",
         xcolor:"#ff5599",
         lightboxcolor:"#ff5599",
@@ -28,10 +32,14 @@
         //iframescrolling:"yes"
 
     });
+});
     });
     </script>
 </head>
 <body>
+<h1 class="demotitle">Flip Popup Jquery Plugin DEMO</h1>
+  <div class="linkpuls">click to popup</div>
+    
 	<div id="pop1"><p>Lorem ipsum dolor sit amet</p>
 		<p></p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
 	</div>
