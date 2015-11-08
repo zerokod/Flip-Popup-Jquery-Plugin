@@ -7,8 +7,14 @@ Add this js file in the head of your html page with the right path
 
 ```
 <script src="flip-popup-jquery.js"></script>
+
 ```
-add 2 attributes to your links 
+and add the css files with the right path to your html page
+```
+<link rel="stylesheet" type="text/css" href="lightbox.css">
+  <link rel="stylesheet" href="flippopup.css">
+```
+add 2 attributes to your links where you will click to popup
 
 ```
 data-flip-popup=""
