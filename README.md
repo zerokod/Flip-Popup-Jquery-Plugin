@@ -19,7 +19,7 @@ add 2 attributes to your links where you will click to popup
 ```
 data-flip-popup=""
 ```
-and the name of the div you want to popup for exemple
+and the name of the div you want to popup for example
 
 ```
 rel="pop1"
